@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>698046899238-7olfps2sfrglbrm1m6j9kfmtc9m8r32n.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.698046899238-7olfps2sfrglbrm1m6j9kfmtc9m8r32n</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>698046899238-bl1s7va0kb5l5e8mai2ln8vntfkjd6h0.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCqtzR0L8CC0rA15ZbFbCmftyt1DcXcFaE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>698046899238</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.iseneca.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>isenecafirebasecarlos</string>
+	<key>STORAGE_BUCKET</key>
+	<string>isenecafirebasecarlos.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:698046899238:ios:37175b98426a5fe5bcb2e7</string>
+</dict>
+</plist>
